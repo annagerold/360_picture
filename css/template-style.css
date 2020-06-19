@@ -460,12 +460,12 @@ aside.aside-left {
   color: #fff !important;
 }
 
-.text-grey{
-  color: 120 120 120;
+.text-grey .text-grey *, .primary-color-grey .text-grey, .primary-color-grey .text-grey{
+  color: #C81010 !important;
 }
 
 .text-primary, .text-primary *, .primary-color-primary .text-primary, .primary-color-primary .text-primary * {
-  color: #C81010 !important;
+  color: #002633 !important;
 }
 .text-dark, .text-dark *, .primary-color-dark .text-primary, .primary-color-dark .text-primary * {
   color: #002633 !important;
